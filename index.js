@@ -5,3 +5,5 @@ var user = {
     email: "beaucicotlovenson@gmail.com"
 };
 console.log(user);
+
+
